@@ -3,7 +3,7 @@ section: resources
 lang: EN
 Author: Open Data Lab Jakarta
 Country: global
-Description: 1-5 lines that summarizes the text
+Description: This is Open Data Lab Jakarta step-by-step guide on how the they worked with the education agency in Banda Aceh to open up data that was in demand by civil society, as well as how they supported civil society organisations to make use of the data to improve the quality of education in Banda Aceh. The Web Foundation researcher, Michael Canares and his team flagged the relationships the existence of FOIA and the disclosure of open data. However, the existing culture of openness Open Data Lab Jakarta to encourage governments to share data.
 Keywords: open data, social audit, foi
 Link: http://labs.webfoundation.org/wp-content/uploads/2015/09/How-to-Guide-FOIODAceh.pdf
 MediaType: Publication
